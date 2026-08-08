@@ -9,7 +9,6 @@ const navItems = [
   { label: '首页', href: '#home' },
   { label: '关于我们', href: '#about' },
   { label: '产品服务', href: '#services' },
-  { label: '新闻资讯', href: '#news' },
   { label: '联系我们', href: '#contact' },
 ]
 
@@ -19,12 +18,12 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <a href="#home" className="flex items-center gap-2" aria-label="远通物流首页">
+        <a href="#home" className="flex items-center gap-2" aria-label="哈尔滨龙港物流首页">
           <span className="flex size-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Truck className="size-5" />
           </span>
           <span className="text-lg font-bold tracking-tight text-foreground">
-            远通物流
+            哈尔滨龙港物流
           </span>
         </a>
 

@@ -12,9 +12,9 @@ const linkGroups = [
 ]
 
 const contacts = [
-  { icon: MapPin, text: '上海市青浦区华新镇物流大道 168 号远通物流园 A 栋' },
-  { icon: Phone, text: '400-800 6688' },
-  { icon: Mail, text: 'service@yuantong-logistics.com' },
+  { icon: MapPin, text: '黑龙江省哈尔滨市双城区双城收费站口100米处' },
+  { icon: Phone, text: '0451-53281386' },
+  { icon: Mail, text: 'lg@lglog.net' },
 ]
 
 export function SiteFooter() {
@@ -27,7 +27,7 @@ export function SiteFooter() {
               <span className="flex size-9 items-center justify-center rounded-lg bg-primary-foreground text-primary">
                 <Truck className="size-5" />
               </span>
-              <span className="text-lg font-bold">远通物流</span>
+              <span className="text-lg font-bold">龙港物流</span>
             </div>
             <p className="mt-4 text-sm leading-relaxed text-primary-foreground/70">
               专注综合物流服务，让每一件货物安全、准时、高效抵达。
@@ -69,8 +69,8 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-primary-foreground/15 pt-6 text-xs text-primary-foreground/60 sm:flex-row">
-          <p>© 2026 远通物流（上海）有限公司 版权所有</p>
-          <p>沪ICP备 12345678 号</p>
+          <p>© 2026 哈尔滨龙港物流有限责任公司 版权所有</p>
+          <p></p>
         </div>
       </div>
     </footer>

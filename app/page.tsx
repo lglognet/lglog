@@ -3,7 +3,6 @@ import { HeroSection } from '@/components/hero-section'
 import { AboutSection } from '@/components/about-section'
 import { ServicesSection } from '@/components/services-section'
 import { CasesSection } from '@/components/cases-section'
-import { NewsSection } from '@/components/news-section'
 import { SiteFooter } from '@/components/site-footer'
 
 export default function Home() {
@@ -15,7 +14,6 @@ export default function Home() {
         <AboutSection />
         <ServicesSection />
         <CasesSection />
-        <NewsSection />
       </main>
       <SiteFooter />
     </div>
