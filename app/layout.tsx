@@ -10,7 +10,7 @@ const notoSansSC = Noto_Sans_SC({
 })
 
 export const metadata: Metadata = {
-  title: '远通物流 | 一站式综合物流服务商',
+  title: '哈尔滨龙港物流｜一站式综合物流服务商',
   description:
     '远通物流专注公路运输、仓储配送、国际货运与供应链管理，覆盖全国的智能物流网络，为企业提供安全、准时、高效的一站式物流解决方案。',
   generator: 'v0.app',

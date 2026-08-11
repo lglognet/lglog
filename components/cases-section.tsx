@@ -2,14 +2,14 @@ const cases = [
   {
     image: '/images/case-1.png',
     tag: '国际货运',
-    title: '某跨境电商海运干线项目',
-    desc: '定制海运整柜与清关方案，跨境时效缩短 30%，物流成本下降 22%。',
+    title: '雀巢（中国）有限公司',
+    desc: '定制海运整柜与仓储方案，全国货运时效缩短 30%，物流成本下降 22%。',
   },
   {
     image: '/images/case-2.png',
-    tag: '航空货运',
-    title: '生鲜企业冷链空运专线',
-    desc: '搭建冷链空运专线与全程温控追踪，损耗率降至 1% 以内，准时率达 99%。',
+    tag: '仓储货运',
+    title: '飞鹤乳业有限公司',
+    desc: '搭建货运专线与全程温控追踪，损耗率降至 1% 以内，准时率达 99%。',
   },
   {
     image: '/images/case-3.png',
@@ -28,7 +28,7 @@ export function CasesSection() {
             客户案例
           </span>
           <h2 className="mt-3 text-balance text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            我们交付的真实成果
+            真实合作伙伴（案例）
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
             与各行业领先企业携手，用可靠的物流方案创造可衡量的业务价值。
