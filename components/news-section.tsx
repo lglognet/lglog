@@ -2,27 +2,27 @@ import { ArrowUpRight } from 'lucide-react'
 
 const news = [
   {
-    date: '2026-07-28',
+    date: '2026-01-28',
     category: '公司动态',
-    title: '远通物流荣获「年度诚信物流企业」称号',
-    desc: '凭借稳定可靠的服务品质与全国网络布局，远通物流获得行业权威机构认可。',
+    title: '哈尔滨龙港物流荣获「雀巢年度诚信物流企业」称号',
+    desc: '凭借稳定可靠的服务品质与全国网络布局，哈尔滨龙港物流获得行业权威机构认可。',
   },
   {
-    date: '2026-07-15',
+    date: '2026-03-15',
     category: '网络拓展',
-    title: '华南智能分拨中心正式启用',
-    desc: '全新自动化分拨中心投入运营，日处理能力提升至 50 万件，辐射华南全域。',
+    title: '飞鹤智能仓储中心正式启用',
+    desc: '日处理能力提升至 5 万件。',
   },
   {
-    date: '2026-06-30',
+    date: '2025-06-30',
     category: '行业洞察',
     title: '企业降低物流成本的五个关键实践',
     desc: '结合大量落地案例，分享企业在运输与仓储环节优化成本的经验与建议。',
   },
   {
-    date: '2026-06-12',
+    date: '2025-06-12',
     category: '合作签约',
-    title: '远通物流与某连锁零售集团达成战略合作',
+    title: '哈尔滨龙港物流与天臣微纳米达成战略合作',
     desc: '双方将在城市配送与供应链管理领域展开深度合作，共建高效配送网络。',
   },
 ]
@@ -36,7 +36,7 @@ export function NewsSection() {
             新闻资讯
           </span>
           <h2 className="mt-3 text-balance text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            了解远通的最新动态
+            了解龙港物流的最新动态
           </h2>
         </div>
 

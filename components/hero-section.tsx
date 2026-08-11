@@ -8,7 +8,7 @@ export function HeroSection() {
     <section id="home" className="relative overflow-hidden bg-primary">
       <img
         src="/images/hero.png"
-        alt="远通物流运输车队行驶在高速公路上"
+        alt="哈尔滨龙港物流运输车队行驶在高速公路上"
         className="absolute inset-0 size-full object-cover opacity-25"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-primary/60" />

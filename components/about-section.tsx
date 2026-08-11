@@ -13,7 +13,7 @@ export function AboutSection() {
           <div className="relative">
             <img
               src="/images/about.png"
-              alt="远通物流智能仓储中心作业场景"
+              alt="哈尔滨龙港物流智能仓储中心作业场景"
               className="w-full rounded-2xl object-cover shadow-lg"
             />
           </div>
