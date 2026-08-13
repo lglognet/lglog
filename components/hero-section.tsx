@@ -22,7 +22,7 @@ export function HeroSection() {
             连接每一段旅程 准时送达
           </h1>
           <p className="mt-6 text-pretty text-lg leading-relaxed text-primary-foreground/80">
-            哈尔滨龙港物流提供公路运输、仓储配送、国际货运与供应链管理一站式服务，
+            哈尔滨龙港物流提供公路运输、仓储配送、国内货运与供应链管理一站式服务，
             以覆盖全国的智能网络，让您的货物安全、准时、高效抵达目的地。
           </p>
 
