@@ -8,7 +8,7 @@ export function HeroSection() {
     <section id="home" className="relative overflow-hidden bg-primary">
       <img
         src="/images/hero.png"
-        alt="远通物流运输车队行驶在高速公路上"
+        alt="哈尔滨龙港物流运输车队行驶在高速公路上"
         className="absolute inset-0 size-full object-cover opacity-25"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-primary via-primary/90 to-primary/60" />
@@ -22,7 +22,7 @@ export function HeroSection() {
             连接每一段旅程 准时送达
           </h1>
           <p className="mt-6 text-pretty text-lg leading-relaxed text-primary-foreground/80">
-            哈尔滨龙港物流提供公路运输、仓储配送、国际货运与供应链管理一站式服务，
+            哈尔滨龙港物流提供公路运输、仓储配送、国内货运与供应链管理一站式服务，
             以覆盖全国的智能网络，让您的货物安全、准时、高效抵达目的地。
           </p>
 
