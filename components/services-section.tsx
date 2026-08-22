@@ -52,7 +52,7 @@ export function ServicesSection() {
             全方位的综合物流能力
           </h2>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
-            覆盖运输、仓储、国际货运与供应链全流程，为不同行业客户提供专业、可靠的物流解决方案。
+            覆盖运输、仓储、国内货运与供应链全流程，为不同行业客户提供专业、可靠的物流解决方案。
           </p>
         </div>
 
